@@ -1,0 +1,13 @@
+{
+  "name": "babyFunction",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.6.0",
+    "mongoose": "^8.3.3",
+    "serverless-http": "^3.1.1"
+  }
+}
