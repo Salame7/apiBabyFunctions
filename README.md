@@ -38,8 +38,8 @@ Esta API permite la gestión de información de bebés dentro de la plataforma. 
 2. Autenticarse con AWS:
     ```sh
     serverless config credentials --provider aws --key <AWS_KEY> --secret <AWS_SECRET>
-  ```
+     ```
 3. Desplegar la API: 
-  ```sh
-  serverless deploy
-  ```
+     ```sh
+     serverless deploy
+     ```
