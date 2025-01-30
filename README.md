@@ -24,10 +24,10 @@ Esta API permite la gestión de información de bebés dentro de la plataforma. 
    ```sh
    git clone <url del repositorio>
    cd <nombre del repositorio>
-  ```
+   ```
 2. Instalar dependencias
   ```sh
-   npm install
+  npm install
   ```
 ## Despliegue en AWS Lambda
 
